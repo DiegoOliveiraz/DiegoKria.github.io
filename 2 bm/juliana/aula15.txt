@@ -1,0 +1,59 @@
+1. a) 13  
+   Cálculo: \( f(5) = 3 \times 5 - 2 = 13 \).
+
+2. c) Nenhum valor de saída se repete  
+   Definição de função injetora.
+
+3. c) Quadrática  
+   Forma: \( ax^2 + bx + c \).
+
+4. b) \( f(x) = 7 \)  
+   Função constante.
+
+5. c) \(\mathbb{R} \setminus \{3\}\)  
+   Restrição: Denominador \( x-3 \neq 0 \).
+
+6. b) \(\frac{1}{4}\)  
+   Cálculo: \( 2^{-2} = \frac{1}{4} \).
+
+7. c) Uma curva crescente que passa por (0,1)  
+   Comportamento de \( 3^x \).
+
+8. a) Crescente  
+   Base \( a > 1 \).
+
+9. b) Decrescente e limitada superiormente  
+   Base \( \frac{1}{2} \in (0, 1) \).
+
+10. c) \((0, +\infty)\)  
+    Imagem de \( 10^x \).
+
+11. b) 3  
+    Cálculo: \( \log_2 8 = 3 \).
+
+12. c) 10  
+    Base do logaritmo comum.
+
+13. a) \( x > 0, a > 0, a \neq 1 \)  
+    Condições para logaritmo.
+
+14. a) 3  
+    Resolve \( b^4 = 81 \).
+
+15. c) 2  
+    Cálculo: \( \log_3 9 = 2 \).
+
+16. c) 1000  
+    Cálculo: \( f(0) = 1000 \cdot e^0 = 1000 \).
+
+17. a) \( \ln x \)  
+    Inversa de \( e^x \).
+
+18. c) \( f(x) = \pm \sqrt{x} \)  
+    Não é função (dois outputs para um input).
+
+19. b) Logarítmica  
+    Modelo para tempo de resposta.
+
+20. c) Normaliza valores em um intervalo entre 0 e 1  
+    Propriedade da sigmoide.
