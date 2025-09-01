@@ -1,0 +1,73 @@
+ANÁLISE TIPOGRÁFICA DO SITE FASTWORK
+🔍 Tipografia Atual Identificada:
+Família Principal: "Roboto", "Nunito Sans", sans-serif
+Fallback: Sistema sans-serif genérico
+Uso: Aplicada globalmente via * { font-family }
+⚠️ Problemas Identificados:
+Falta de Hierarquia Clara
+
+Todos os elementos usam a mesma família
+Tamanhos não seguem escala harmoniosa
+Falta diferenciação entre títulos e corpo
+Mistura de Fontes Conflitantes
+
+Roboto (geométrica) + Nunito Sans (humanista)
+Características diferentes podem gerar desarmonia
+Inadequação ao Arquétipo
+
+Site de conexões trabalhistas precisa transmitir confiança e profissionalismo
+🎯 PROPOSTA DE MELHORIA TIPOGRÁFICA
+🏗️ Arquétipo do FastWork:
+Categoria: Plataforma B2B/Marketplace
+Valores: Confiança, Profissionalismo, Modernidade, Acessibilidade
+Público: Profissionais e empresas
+📚 Pesquisa Google Fonts - Recomendações 2025:
+1. Para Corpo Principal (Leiturabilidade Digital):
+Inter - Otimizada para UI/UX
+Source Sans 3 - Máxima legibilidade
+Public Sans - Desenvolvida para governo (confiança)
+2. Para Títulos (Impacto e Hierarquia):
+Outfit - Moderna e geométrica
+Plus Jakarta Sans - Contemporânea e versátil
+Space Grotesk - Característica e memorável
+
+Inter (Corpo Principal):
+✅ Desenvolvida especificamente para interfaces digitais
+✅ Altíssima legibilidade em telas
+✅ Suporte completo a acessibilidade
+✅ Otimizada para diferentes tamanhos
+✅ Usado por GitHub, Netflix, Notion
+Outfit (Títulos e Display):
+✅ Geométrica moderna e amigável
+✅ Boa diferenciação hierárquica
+✅ Transmite profissionalismo sem ser formal demais
+✅ Família completa (400-800)
+✅ Combina perfeitamente com Inter
+📊 Benefícios da Nova Tipografia:
+Leiturabilidade Superior
+
+Inter otimizada para telas digitais
+Melhor distinção entre caracteres
+Hierarquia Clara
+
+Escala matemática harmoniosa
+Diferenciação visual eficiente
+Identidade Profissional
+
+Transmite confiança e competência
+Adequada ao público B2B
+Performance
+
+Fontes otimizadas para web
+Carregamento rápido
+Acessibilidade
+
+Ambas as fontes seguem padrões WCAG
+Boa legibilidade para usuários com dislexia
+🎯 Aplicação no FastWork:
+Logo: Outfit ExtraBold para impacto
+Títulos de seção: Outfit Bold/SemiBold
+Navegação: Inter Medium para clareza
+Corpo de texto: Inter Regular para leitura fluida
+Metadados: Inter Light para hierarquia
+Esta proposta mantém a modernidade do FastWork enquanto melhora drasticamente a legibilidade, profissionalismo e experiência do usuário através de uma tipografia cientificamente otimizada para o ambiente digital.
